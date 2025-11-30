@@ -279,42 +279,40 @@
     <h2>Cabinet</h2>
     <div class="cabinet-container">
       <div class="cabinet-member">
-        <img src="resources/james.jpg" alt="President">
+        <img src="resources/president.jpg" alt="President">
         <div class="cabinet-title">President</div>
         <div class="cabinet-name">James Barnett</div>
         <div class="cabinet-rank">1 Dan</div>
       </div>
       <div class="cabinet-member">
-        <img src="resources/eric.jpg" alt="Vice-President">
+        <img src="resources/vicepresident.jpg" alt="Vice-President">
         <div class="cabinet-title">Vice-President</div>
-        <div class="cabinet-name">Eric Frankle</div>
-        <div class="cabinet-rank">2 Kyu</div>
+        <div class="cabinet-name">Matthew Barton</div>
       </div>
       <div class="cabinet-member">
-        <img src="resources/placeholder.jpg" alt="Treasurer">
+        <img src="resources/treasurer.jpg" alt="Treasurer">
         <div class="cabinet-title">Treasurer</div>
-        <div class="cabinet-name">Zuzanny Warren</div>
+        <div class="cabinet-name">William Davis</div>
       </div>
       <div class="cabinet-member">
-        <img src="resources/sam.jpg" alt="Risk Manager">
+        <img src="resources/riskmanager.jpg" alt="Risk Manager">
         <div class="cabinet-title">Risk Manager</div>
-        <div class="cabinet-name">Samantha Quinto</div>
-        <div class="cabinet-rank">1 Dan</div>
+        <div class="cabinet-name">Ivan Pham</div>
       </div>
       <div class="cabinet-member">
-        <img src="resources/placeholder.jpg" alt="Secretary">
+        <img src="resources/secretary.jpg" alt="Secretary">
         <div class="cabinet-title">Secretary</div>
-        <div class="cabinet-name">Basil Gonzales</div>
+        <div class="cabinet-name">Vanessa Junco</div>
       </div>
       <div class="cabinet-member">
-        <img src="resources/placeholder.jpg" alt="Creative Manager">
+        <img src="resources/creativemanager.jpg" alt="Creative Manager">
         <div class="cabinet-title">Creative Manager</div>
-        <div class="cabinet-name">Lily Seda</div>
+        <div class="cabinet-name">Zuzanny Warren</div>
       </div>
     </div>
   </section>
   
-  <!-- New Section for Information and Slideshow -->
+  <!-- Section for Information and Slideshow -->
   <section id="practice" class="slideshow-section">
     <div class="slideshow-container">
       <!-- Information Box (Stays Static) -->
