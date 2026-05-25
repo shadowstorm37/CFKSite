@@ -31,10 +31,19 @@ A modern website for Central Florida Kendobu built with SvelteKit, featuring inf
     │ ├── kendo1.jpg # Slideshow images
     │ ├── kendo2.jpg
     │ ├── kendo3.jpg
-    │ ├── james.jpg # Cabinet member photos
-    │ ├── eric.jpg
-    │ ├── sam.jpg
-    │ └── placeholder.jpg
+    │ ├── kendo4.jpg
+    │ ├── kendo5.jpg
+    │ ├── kendo6.jpg
+    │ ├── kendo7.jpg
+    │ ├── kendo8.jpg
+    │ ├── kendo9.jpg
+    │ ├── president.jpg # Cabinet member photos
+    │ ├── vicepresident.jpg
+    │ ├── riskmanager.jpg
+    │ ├── treasurer.jpg
+    │ ├── secretary.jpg
+    │ ├── creativemanager.jpg
+    │ └── placeholder.jpg # For cabinet members with no photos
     ├── package.json
     ├── svelte.config.js
     ├── vite.config.ts
