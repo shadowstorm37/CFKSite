@@ -71,7 +71,7 @@
   </div>
   <div class="header-text">
     <h1>Central Florida Kendobu</h1>
-    <p class="motto">Motto goes here</p>
+    <p class="motto">Discipline Through the Sword</p>
   </div>
 </header>
 

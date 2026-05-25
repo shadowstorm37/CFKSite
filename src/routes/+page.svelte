@@ -7,7 +7,13 @@
     let images: string[] = [
       "resources/kendo1.jpg",
       "resources/kendo2.jpg",
-      "resources/kendo3.jpg"
+      "resources/kendo3.jpg",
+      "resources/kendo4.jpg",
+      "resources/kendo5.jpg",
+      "resources/kendo6.jpg",
+      "resources/kendo7.jpg",
+      "resources/kendo8.jpg",
+      "resources/kendo9.jpg"
     ];
     let currentIndex: number = 0;
     let interval: number;
@@ -182,10 +188,11 @@
   }
   .slideshow-box {
     position: relative;
+    width: 100%;
   }
   .slideshow-img {
     width: 100%;
-    height: 300px;
+    height: 450px;
     object-fit: cover;
     border-radius: 8px;
   }
@@ -231,6 +238,8 @@
     border: 1px solid #ddd;
     border-radius: 5px;
     font-size: 16px;
+
+    box-sizing: border-box;
   }
 
   .contact-form button {
@@ -281,13 +290,12 @@
       <div class="cabinet-member">
         <img src="resources/president.jpg" alt="President">
         <div class="cabinet-title">President</div>
-        <div class="cabinet-name">James Barnett</div>
-        <div class="cabinet-rank">1 Dan</div>
+        <div class="cabinet-name">Vanessa Junco</div>
       </div>
       <div class="cabinet-member">
         <img src="resources/vicepresident.jpg" alt="Vice-President">
         <div class="cabinet-title">Vice-President</div>
-        <div class="cabinet-name">Matthew Barton</div>
+        <div class="cabinet-name">Jonathan Rodriguez</div>
       </div>
       <div class="cabinet-member">
         <img src="resources/treasurer.jpg" alt="Treasurer">
@@ -302,12 +310,12 @@
       <div class="cabinet-member">
         <img src="resources/secretary.jpg" alt="Secretary">
         <div class="cabinet-title">Secretary</div>
-        <div class="cabinet-name">Vanessa Junco</div>
+        <div class="cabinet-name">Aisa Uchimura</div>
       </div>
       <div class="cabinet-member">
-        <img src="resources/creativemanager.jpg" alt="Creative Manager">
+        <img src="resources/placeholder.jpg" alt="Creative Manager">
         <div class="cabinet-title">Creative Manager</div>
-        <div class="cabinet-name">Zuzanny Warren</div>
+        <div class="cabinet-name">Keira Rapin</div>
       </div>
     </div>
   </section>
@@ -319,7 +327,8 @@
       <div class="info-box-white">
         <h3>Information</h3>
         <p>Practice Dates are every Tuesday and Thursday from 9:30-11:30pm located in the Group Exercise Room II</p>
-        <p>Stay tuned for more events and announcements. We look forward to seeing you on the mat!</p>
+        <p>Please bring water and wear comfortable clothing. All other equipment will be provided by the club. After a two-week trial period, club dues are $20 per semester.</p>
+        <p>We look forward to seeing you at practice!</p>
       </div>
   
       <!-- Slideshow Box (With Controls) -->
